@@ -11,9 +11,9 @@
     
 }
 
-input[name="prosemirror"].fullscreen {
+button[name="prosemirror"].fullscreen {
  z-index: -1;
 }
 
-input[name="prosemirror"].fullscreen {
+button[name="prosemirror"].fullscreen {
 }
