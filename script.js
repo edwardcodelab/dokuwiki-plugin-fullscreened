@@ -19,7 +19,7 @@ function addBtnActionFullscreenmode($btn, props, edid) {
  
     $btn.click(function() {
      jQuery('.editBox').toggleClass('fullscreen');
-
+     jQuery("[name='prosemirror']").toggleClass('fullscreen');
         return false;
     });
  
