@@ -6,11 +6,12 @@
     top: 0; 
     left: 0; 
     backdrop-filter: blur(4px);
-    transition: all 1s;
+    transition: all 2s;
+    
  }
 
 .editBox{
-    
+transition: all 2s;    
 }
 
 button[name="prosemirror"].fullscreen {
