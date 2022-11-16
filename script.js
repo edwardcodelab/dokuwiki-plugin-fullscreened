@@ -3,7 +3,7 @@
 // add a new toolbar button, but first check if there is a toolbar
 if (typeof window.toolbar !== 'undefined') {
     window.toolbar[window.toolbar.length] = {
-        type: "fullscreened", // we have a new type that links to the function
+        type: "fullscreenmode", // we have a new type that links to the function
         title: "Fulls Screen Edit Mode",
         icon: "../../plugins/fullscreened/fullscreened.png",
         key:""
@@ -13,7 +13,7 @@ if (typeof window.toolbar !== 'undefined') {
 
 
 
-function addBtnActionFullscreened($btn, props, edid) {
+function addBtnActionFullscreenmode($btn, props, edid) {
     // initialize stuff if required
     // ...
  
