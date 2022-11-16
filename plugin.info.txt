@@ -1,0 +1,8 @@
+base   fullscreened
+author dodotori @ dokuwiki forum
+email  dodotori@localhost
+date   2022-11-16
+name   fullscreened plugin
+desc   to fullscreen
+url    https://github.com/edwardcodelab/dokuwiki-plugin-fullscreened
+
