@@ -5,7 +5,7 @@ if (typeof window.toolbar !== 'undefined') {
     window.toolbar[window.toolbar.length] = {
         type: "fullscreenmode", // we have a new type that links to the function
         title: "Fulls Screen Edit Mode",
-        icon: "../../plugins/fullscreened/fullscreened.png",
+        icon: "../../plugins/fullscreenmode/fullscreened.png",
         key:""
     };    
 }
