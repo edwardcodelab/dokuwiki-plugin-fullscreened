@@ -10,3 +10,10 @@
 .editBox{
     
 }
+
+input[name="prosemirror"].fullscreen {
+ z-index: -1;
+}
+
+input[name="prosemirror"].fullscreen {
+}
